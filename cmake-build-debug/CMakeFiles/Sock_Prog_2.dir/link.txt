@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Sock_Prog_2.dir/client.c.o CMakeFiles/Sock_Prog_2.dir/server.c.o  -o Sock_Prog_2 

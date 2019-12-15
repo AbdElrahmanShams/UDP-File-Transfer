@@ -1,0 +1,3 @@
+/home/ab_shams/CLionProjects/UDP File Transfer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ab_shams/CLionProjects/UDP File Transfer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ab_shams/CLionProjects/UDP File Transfer/cmake-build-debug/CMakeFiles/Sock_Prog_2.dir
